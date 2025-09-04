@@ -1,0 +1,23 @@
+Doc1: (Module 1)
+1. Dart Setup
+2. History and a little theory about Programming Language
+3. Why we need to learn Dart and what resources to use (like Dartpad and VS Code)
+4. Topics:
+    - Syntax of Dart, Comments, Shortcuts 
+    - Variable and Data Types
+    - Operators
+    - Concantenation and Interpolation Concept
+    - Input and Output
+    - Practise Questions + Assignments + Timed Quiz
+
+(Module 2)
+1. Advanced Data Types (list, Maps)
+2. If-Else Statement
+3. Loops 
+4. Practise Questions + Assignments + Timed Quiz
+
+(Moudle 3)
+1. Switches
+2. Break-Continue Statement
+
+Starting our First Project: Simple Calculator (using Switches)
